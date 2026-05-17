@@ -2,7 +2,7 @@
 layout: page
 title: MAPL3
 description: Mapping Axonal Projection in Light Sheet Microscopy in 3D — brain-wide single-axon resolution pipeline
-img: assets/img/proj_mapl3.jpg
+img: assets/img/proj_mapl3.png
 importance: 3
 category: past
 ---

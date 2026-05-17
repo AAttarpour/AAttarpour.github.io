@@ -2,7 +2,7 @@
 layout: page
 title: ACE
 description: AI-based Cartography of Ensembles — 3D pipeline for whole-brain mapping of neuronal activity in tera-voxel light sheet data
-img: assets/img/proj_ace.jpg
+img: assets/img/proj_ace.png
 importance: 4
 category: past
 related_publications: true
