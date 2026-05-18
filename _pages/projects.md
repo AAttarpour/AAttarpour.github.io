@@ -105,9 +105,9 @@ nav_order: 4
       <span class="proj-date">2024 – Present</span>
     </div>
     <ul class="proj-bullets">
-      <li>Developed a state-of-the-art <strong>foundation model for echocardiography</strong> pretrained on <strong>18 million videos across 300K patients</strong> — the largest pretraining corpus for cardiac imaging to date.</li>
-      <li>Employed a <strong>latent predictive (JEPA) self-supervised</strong> objective to learn rich spatiotemporal cardiac representations without labeled data.</li>
-      <li>Achieved <strong>~20% improvement in LVEF estimation</strong> and <strong>78.6% view classification accuracy</strong> using only 1% of labeled data <a href="https://echojepa.com/" target="_blank">[website]</a>.</li>
+      <li>Contributed significantly to the development of EchoJEPA — a <strong>latent predictive (JEPA) foundation model</strong> for echocardiography pretrained on <strong>18 million videos across 300K patients</strong> — through technical implementation, experimental design, model evaluation, and interpretation of research findings.</li>
+      <li>Collaborated closely with an interdisciplinary team on methodological development, validation strategies, and scientific discussions to ensure robust and clinically meaningful outcomes.</li>
+      <li>Contributed to manuscript preparation, figure generation, and scientific narrative refinement; model achieves <strong>~20% improvement in LVEF estimation</strong> and <strong>78.6% view classification accuracy</strong> using only 1% of labeled data <a href="https://echojepa.com/" target="_blank">[website]</a>.</li>
     </ul>
   </div>
 
