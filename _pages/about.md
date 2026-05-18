@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: "AI Scientist | Foundation Models · Agentic AI · Large Biomedical Data"
 
