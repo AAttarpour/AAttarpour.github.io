@@ -181,7 +181,68 @@ nav_order: 3
 
 <div class="pub-list conf-list">
 
-  <p class="conf-placeholder"><em>List your conference presentations here — paste them from your CV and I'll format them.</em></p>
+  <!-- IGT x ImNO 2025 -->
+  <div class="pub-entry">
+    <div class="pub-meta">
+      <span class="pub-venue pmb">IGT × ImNO Joint Symposium</span>
+      <span class="pub-year">Mar. 2025</span>
+      <span class="pub-venue-loc">Toronto, Canada</span>
+    </div>
+    <div class="pub-title">A deep learning pipeline for 3D brain-wide mapping of local neuronal ensembles</div>
+  </div>
+
+  <!-- SFN Chicago 2024 -->
+  <div class="pub-entry">
+    <div class="pub-meta">
+      <span class="pub-venue hbm">SFN Conference</span>
+      <span class="pub-year">Oct. 2024</span>
+      <span class="pub-venue-loc">Chicago, US</span>
+      <span class="pub-badge equal">Poster</span>
+    </div>
+    <div class="pub-title">An end-to-end deep learning pipeline for 3D mapping of laminar neuronal activity in light sheet data</div>
+  </div>
+
+  <!-- UBC Keynote 2024 -->
+  <div class="pub-entry">
+    <div class="pub-meta">
+      <span class="pub-venue nm">UBC Tissue Clearing &amp; Expansion Workshop</span>
+      <span class="pub-year">May. 2024</span>
+      <span class="pub-venue-loc">Vancouver, Canada</span>
+      <span class="pub-badge first-author">Keynote</span>
+    </div>
+    <div class="pub-title">ACE — AI-based Cartography of Ensembles</div>
+  </div>
+
+  <!-- SFN Washington 2023 -->
+  <div class="pub-entry">
+    <div class="pub-meta">
+      <span class="pub-venue hbm">SFN Conference</span>
+      <span class="pub-year">Nov. 2023</span>
+      <span class="pub-venue-loc">Washington, US</span>
+      <span class="pub-badge equal">Nanosymposium</span>
+    </div>
+    <div class="pub-title">A deep learning pipeline for 3D mapping of neuronal activity in tera-voxel light sheet microscopy data</div>
+  </div>
+
+  <!-- VAST 2023 -->
+  <div class="pub-entry">
+    <div class="pub-meta">
+      <span class="pub-venue arxiv">VAST Conference</span>
+      <span class="pub-year">May. 2023</span>
+      <span class="pub-venue-loc">Montreal, Canada</span>
+    </div>
+    <div class="pub-title">A deep learning network for 3D segmentation of neurons in tera-voxel light sheet fluorescence microscopy</div>
+  </div>
+
+  <!-- ISMRM 2021 -->
+  <div class="pub-entry">
+    <div class="pub-meta">
+      <span class="pub-venue bspc">ISMRM</span>
+      <span class="pub-year">May. 2021</span>
+      <span class="pub-venue-loc">Online</span>
+    </div>
+    <div class="pub-title">Vascular origins of low-frequency oscillations in the CSF in resting-state fMRI: interpretation using photoplethysmography</div>
+  </div>
 
 </div>
 
@@ -328,8 +389,9 @@ nav_order: 3
     text-decoration: none;
   }
 
-  .conf-placeholder {
+  .pub-venue-loc {
+    font-size: 0.75rem;
     color: var(--global-text-color-light, #888);
-    font-size: 0.9rem;
+    font-style: italic;
   }
 </style>
