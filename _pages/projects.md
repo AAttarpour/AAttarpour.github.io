@@ -93,6 +93,24 @@ nav_order: 4
     </ul>
   </div>
 
+  <!-- EchoJEPA -->
+  <div class="proj-entry">
+    <div class="proj-header">
+      <div class="proj-left">
+        <span class="proj-title">
+          <a href="https://echojepa.com/" target="_blank">EchoJEPA — Latent Predictive Foundation Model for Echocardiography</a>
+        </span>
+        <span class="proj-tech">Python &middot; PyTorch &middot; Self-Supervised Learning</span>
+      </div>
+      <span class="proj-date">2024 – Present</span>
+    </div>
+    <ul class="proj-bullets">
+      <li>Developed a state-of-the-art <strong>foundation model for echocardiography</strong> pretrained on <strong>18 million videos across 300K patients</strong> — the largest pretraining corpus for cardiac imaging to date.</li>
+      <li>Employed a <strong>latent predictive (JEPA) self-supervised</strong> objective to learn rich spatiotemporal cardiac representations without labeled data.</li>
+      <li>Achieved <strong>~20% improvement in LVEF estimation</strong> and <strong>78.6% view classification accuracy</strong> using only 1% of labeled data <a href="https://echojepa.com/" target="_blank">[website]</a>.</li>
+    </ul>
+  </div>
+
   <!-- Pancreas Multi-Task Learning -->
   <div class="proj-entry">
     <div class="proj-header">
