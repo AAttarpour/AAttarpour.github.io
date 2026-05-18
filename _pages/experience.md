@@ -102,7 +102,7 @@ nav_order: 2
       <div class="exp-left">
         <div class="exp-role">Software Engineer &amp; Programmer</div>
         <div class="exp-org">RayanMindware Co.</div>
-        <div class="exp-location"><i class="fas fa-map-marker-alt fa-xs"></i> Isfahan, Iran</div>
+        <div class="exp-location"><i class="fas fa-map-marker-alt fa-xs"></i> Remote</div>
       </div>
       <div class="exp-right">
         <span class="exp-badge past">Feb 2017 – Jul 2019</span>
