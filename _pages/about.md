@@ -2,13 +2,12 @@
 layout: about
 title: about
 permalink: /
-subtitle: >
-  AI Scientist | <a href="https://www.uhn.ca/" target="_blank">University Health Network (UHN)</a>, <a href="https://pmcc.ai/" target="_blank">Peter Munk Cardiac Centre AI Team</a> & <a href="https://www.utoronto.ca/" target="_blank">University of Toronto</a>, Toronto, Canada
+subtitle: "AI Scientist | Foundation Models · Agentic AI · Large Biomedical Data"
 
 profile:
   align: right
   image: prof_pic.png
-  image_circular: false # crops the image to make it circular
+  image_circular: false
   more_info: >
     <p><b>AI Scientist</b></p>
     <p>University Health Network (UHN)</p>
@@ -16,7 +15,7 @@ profile:
     <p>Toronto, Ontario, Canada</p>
 
 selected_papers: false
-social: true # includes social icons at the bottom of the page
+social: true
 
 announcements:
   enabled: false
@@ -27,12 +26,17 @@ latest_posts:
   limit: 3
 ---
 
-I am an AI Scientist at the [University Health Network (UHN)](https://www.uhn.ca/) and [Peter Munk Cardiac Centre AI Team](https://pmcc.ai/), Toronto, Canada, with over 9 years of experience at the intersection of AI/ML, neuroscience, and healthcare.
+I build **end-to-end AI-based pipelines**, **foundation models**, and **agentic AI systems** for large-scale biomedical data analysis, with the goal of translating cutting-edge ML research into real-world healthcare impact.
 
-My research focuses on developing and deploying **end-to-end AI pipelines for large-scale biomedical and microscopy data analysis**, including **foundation deep learning models** and **agentic AI systems** leveraging vision–language representations. I am particularly interested in designing ML pipelines robust to distribution shift, noisy data, and model uncertainty in real-world clinical and scientific decision settings.
+I am an AI Scientist at the [University Health Network (UHN)](https://www.uhn.ca/) and [Peter Munk Cardiac Centre AI Team](https://pmcc.ai/), Toronto, Canada. I completed my **Ph.D. in Medical Biophysics** at the [University of Toronto](https://www.utoronto.ca/) and [Sunnybrook Research Institute](https://sunnybrook.ca/research/), specializing in deep learning for 3D whole-brain analysis of tera-voxel light sheet microscopy data.
 
-I completed my **Ph.D. in Medical Biophysics** at the [University of Toronto](https://www.utoronto.ca/) (Department of Medical Biophysics, Faculty of Medicine) and [Sunnybrook Research Institute](https://sunnybrook.ca/research/), where I developed deep learning methods for 3D whole-brain mapping of neuronal activity and connectivity in tera-voxel light sheet microscopy data. My work has resulted in **2 patent filings**, **6 peer-reviewed publications** (including a first-author paper in [*Nature Methods*](https://doi.org/10.1038/s41592-024-02583-1)), and **10+ international conference presentations**.
+My work spans the full ML development lifecycle — from self-supervised pretraining of foundation models on millions of 3D biomedical image patches, to building **agentic reasoning pipelines** and **multimodal vision-language systems** for biomedical data analysis. I have experience across a diverse range of biomedical data modalities, including **light sheet microscopy**, **CryoET/CryoEM**, **histopathology (WSI)**, **MRI/CT**, and **ECG/biosignals**. I have co-authored [**10+ peer-reviewed publications**](https://scholar.google.com/citations?user=6m7xbK4AAAAJ) including two first-author papers in [*Nature Methods*](https://doi.org/10.1038/s41592-024-02583-1) (one published, one under review), filed **2 patents**, and presented at **10+ international conferences**.
 
-I also serve in advisory and mentorship roles across multiple academic and applied AI projects at UHN AIHub and the University of Toronto, supervising interns and PhD students and collaborating with interdisciplinary teams of clinicians and researchers.
+I am particularly passionate about developing **robust, uncertainty-aware, and deployable AI** — systems that generalize reliably under distribution shift and real-world noisy conditions.
 
-**Research interests:** Foundation models · Agentic AI · Medical image analysis · Light sheet microscopy · Self-supervised learning · Vision-language models · Model uncertainty
+**Education**
+- Ph.D. Medical Biophysics — University of Toronto & Sunnybrook Research Institute, 2025
+- M.Sc. Electrical Engineering — Isfahan University of Technology, 2019
+- B.Sc. Biomedical Engineering — University of Isfahan, 2016
+
+**Research interests:** Foundation models · Agentic AI · Multimodal learning · Medical image analysis · Self-supervised learning · Vision-language models · Large-scale biomedical data
