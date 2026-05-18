@@ -51,7 +51,7 @@ I am particularly passionate about developing **robust, uncertainty-aware, and d
         </a>
       </h3>
       <p class="feat-desc">
-        End-to-end 3D deep learning pipeline for brain-wide mapping of local neuronal ensembles in tera-voxel (~1TB/sample) light sheet microscopy data. Integrates a CNN/ViT ensemble with Monte Carlo dropout for probabilistic uncertainty estimation and cluster-wise permutation statistical analysis.
+        End-to-end 3D deep learning pipeline for brain-wide mapping of local neuronal ensembles in tera-voxel (~1TB/sample) light sheet microscopy data. Integrates a CNN/ViT ensemble with Monte Carlo dropout for probabilistic uncertainty estimation and cluster-wise permutation statistical analysis. Adopted internationally — used in a <a href="https://www.cell.com/cell/fulltext/S0092-8674(25)01365-0" target="_blank" style="color:inherit;font-weight:600;text-decoration:underline;">Cell (2025)</a> study.
       </p>
       <div class="feat-links">
         <a href="https://doi.org/10.1038/s41592-024-02583-1" target="_blank" class="feat-btn">Paper</a>
@@ -77,6 +77,7 @@ I am particularly passionate about developing **robust, uncertainty-aware, and d
         3D computational pipeline for brain-wide axonal projection mapping at single-fiber resolution. Combines a novel CNN+ViT architecture with self-supervised learning to quantitatively profile whole-brain connectomes using high-resolution light sheet microscopy.
       </p>
       <div class="feat-links">
+        <a href="https://www.biorxiv.org/content/10.1101/2025.11.14.688340v1.abstract" target="_blank" class="feat-btn">Preprint</a>
         <a href="https://github.com/AAttarpour/microscopy-image-analysis" target="_blank" class="feat-btn">Code</a>
       </div>
     </div>
