@@ -21,7 +21,7 @@ latest_posts:
   limit: 3
 ---
 
-I build **end-to-end AI-based pipelines**, **foundation models**, and **agentic AI systems** for large-scale biomedical data analysis, with the goal of translating cutting-edge ML research into real-world healthcare impact.
+I build **end-to-end AI-based pipelines**, **foundation models**, and **agentic AI systems** for large-scale biomedical and biological data analysis, with the goal of translating cutting-edge ML research into real-world healthcare impact.
 
 I am an AI Scientist at the [University Health Network (UHN)](https://www.uhn.ca/) and [Peter Munk Cardiac Centre AI Team](https://pmcc.ai/), Toronto, Canada. I completed my **Ph.D. in Medical Biophysics** at the [University of Toronto](https://www.utoronto.ca/) and [Sunnybrook Research Institute](https://sunnybrook.ca/research/), specializing in deep learning for 3D whole-brain analysis of tera-voxel light sheet microscopy data.
 
